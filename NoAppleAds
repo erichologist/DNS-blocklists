@@ -1,16 +1,3 @@
-[Adblock Plus]
-! Title: HaGeZi's Apple Tracker DNS Blocklist
-! Description: Blocks Apple native broadband tracker that track your activity.
-! Homepage: https://github.com/hagezi/dns-blocklists
-! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
-! Issues: https://github.com/hagezi/dns-blocklists/issues
-! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
-! Expires: 1 day
-! Last modified: 03 Apr 2026 16:57 UTC
-! Version: 2026.0403.1657.56
-! Syntax: AdBlock
-! Number of entries: 99
-!
 ||cstat.g.aaplimg.com^
 ||diagassets.g.aaplimg.com^
 ||cdn-xp-ingest-ab.v.aaplimg.com^
